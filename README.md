@@ -1,6 +1,8 @@
 # Python-Sandpile
 
 ## General info
+Simple Sandpile simulation with Python
+
 First you got ask what size you want for matrix\n
 *Input Row : X
 *Input Col : Y
