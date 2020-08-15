@@ -1,5 +1,6 @@
 # Python-Sandpile
 
+## General info
 First you got ask what size you want for matrix
 Input Row : X
 Input Col : Y
