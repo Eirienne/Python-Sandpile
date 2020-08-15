@@ -3,7 +3,7 @@
 ## General info
 Simple Sandpile simulation with Python
 
-##What program do
+## What program do
 - First you got ask what size you want for matrix
 - Input Row : X
 - Input Col : Y
