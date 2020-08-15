@@ -1,7 +1,7 @@
 # Python-Sandpile
 
 ## General info
-*First you got ask what size you want for matrix
+First you got ask what size you want for matrix\n
 *Input Row : X
 *Input Col : Y
 *Then you got ask how many pile you want
